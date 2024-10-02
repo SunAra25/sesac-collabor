@@ -3,5 +3,5 @@ func a() {
 }
 
 func b() {
-    print("에이,,~~")
+    print("비,,~~")
 }
