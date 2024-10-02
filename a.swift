@@ -3,5 +3,5 @@ func a() {
 }
 
 func b() {
-    print("비,,~~")
+    print("변경변경")
 }
