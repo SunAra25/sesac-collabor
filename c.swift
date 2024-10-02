@@ -1,4 +1,4 @@
 func c() {
     print("c")
-    print("d?d")
+    print("히히히")
 }
